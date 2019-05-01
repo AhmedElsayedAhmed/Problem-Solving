@@ -1,0 +1,7 @@
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe.config
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csprojAssemblyReference.cache
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\obj\Debug\MissingNumber.exe
+C:\Users\OpenMind\source\repos\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb

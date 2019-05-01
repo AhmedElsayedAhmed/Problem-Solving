@@ -1,0 +1,7 @@
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.exe.config
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.exe
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.pdb
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.csprojAssemblyReference.cache
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.exe
+C:\Users\OpenMind\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.pdb
